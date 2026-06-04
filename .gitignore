@@ -1,0 +1,13 @@
+venv/
+embeddings/
+results/
+data/
+
+__pycache__/
+*.pyc
+.DS_Store
+
+*.npy
+*.pt
+*.pth
+*.ckpt
